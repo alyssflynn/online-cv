@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Alyss Flynn
+    tagline: Data Analyst/Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: alyss.flynn@me.com
+    phone: 936 827 0997
+    website: alyssflynn.github.io #do not add http://
+    linkedin: alyssflynn
+    github: alyssflynn
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@alyssbot'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -28,36 +28,36 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Barely Conversational
 
       - idiom: Spanish
-        level: Professional
+        level: Nope
         
     interests:
-      - item: Climbing
+      - item: Rock climbing
         link:
 
-      - item: Snowboarding
+      - item: Photography
         link:
 
-      - item: Cooking
+      - item: Art
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Recent graduate in Biology from the University of Texas at Austin and 
+      current data analysis consultant. Seeking a position where I can exercise 
+      my analytical curiosity and problem-solving skills towards a common goal 
+      that will have a positive impact on society. 
+      
+      Available immediately and willing to relocate.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Certificate in Data Analytics
+      university: UT Austin Data Analytics Bootcamp
+      time: 2018 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +68,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Biology
+      university: The University of Texas at Austin
+      time: 2013 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,9 +82,9 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Analysis Consultant
+      time: 2018 - Present
+      company: EMS, LLC, Houston
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -99,9 +99,9 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistant
+      time: 2017 - 2018
+      company: UT Austin, Austin
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
